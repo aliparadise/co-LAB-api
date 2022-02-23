@@ -1,109 +1,111 @@
 {
-    "collaborators": [
-      {
-        "id": 1,
-        "name": "Ava Jones",
-        "email": "avajones@belmont.edu",
-        "about": "My art background is in photography and studio art. I mostly work with acrylic paint right now, but have been experimenting with painting found objects and assembling them together as a kind of sculpture.",
-        "image": "https://img1.etsystatic.com/032/0/9411408/il_170x135.591976175_hrdx.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Bruno Garcia",
-        "email": "brunoG@gmail.com",
-        "about": "I am a self-taught painter. I enjoy bright colors and mostly abstract work. I am not a working artist, but paint more to relax and meet new people.",
-        "image": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 3,
-        "name": "Lily Potter",
-        "email": "lilyrose@vanderbilt.edu",
-        "about": "Hi! I'm Lily, and I am just starting my art degree. I have always loved to draw, but hope to expand my knowledge into watercolor and other painting mediums.",
-        "image": "https://images.pexels.com/photos/7147661/pexels-photo-7147661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      },
-      {
-        "id": 4,
-        "name": "Tamika Roberts",
-        "email": "tamikaR@gmail.com",
-        "about": "Hello, my name is Tamika, and I am a children's book illustrator. I love to spend time with other artists, and I am looking for a collaborator to help me illustrate my next book project.",
-        "image": "https://images.pexels.com/photos/3817580/pexels-photo-3817580.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-      },
-      {
-        "id": 5,
-        "name": "Jackson Townsend",
-        "email": "jackjack@gmail.com",
-        "about": "My main work is comic book art. Mostly graphic novels, but I also do some editorial. My favorite thing to work with is paper collage and ink.",
-        "image": "https://images.pexels.com/photos/1043331/pexels-photo-1043331.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-      }
-    ],
-    "facilitators": [
-      {
-        "id": 1,
-        "name": "Tom Schultz",
-        "specialty": "painting"
-      },
-      {
-        "id": 2,
-        "name": "Rose Rogers",
-        "specialty": "illustration"
-      },
-      {
-        "id": 3,
-        "name": "Seymour Levin",
-        "specialty": "fibers"
-      },
-      {
-        "id": 4,
-        "name": "Elsa Knowles",
-        "specialty": "sculpture"
-      },
-      {
-        "id": 5,
-        "name": "Tom French",
-        "specialty": "printmaking"
-      },
-      {
-        "id": 6,
-        "name": "Bianca Small",
-        "specialty": "digital art"
-      }
-    ],
-    "labs": [
-      {
-        "id": 1,
-        "name": "Paint It, Black?",
-        "about": "An exercise in minimalism, this LAB will experiment with the use of only black paint, ink and charcoals.",
-        "address": "1002 Fatherland St.",
-        "facilitatorId": 4,
-        "date": "February 25",
-        "time": "2:00pm"
-      },
-      {
-        "id": 2,
-        "name": "Drink and Draw",
-        "about": "BYODrink of choice, and join us for a laid back drawing session.",
-        "address": "1002 Fatherland St.",
-        "facilitatorId": 2,
-        "date": "February 29",
-        "time": "6:00pm"
-      },
-      {
-        "id": 3,
-        "name": "While My MacBook Gently Weeps",
-        "about": "New to world of digital arts, and feeling weepy? Come together, right now, in this Beatles themed LAB, to HELP! each other learn.",
-        "address": "1002 Fatherland St.",
-        "facilitatorId": 6,
-        "date": "March 5",
-        "time": "3:00pm"
-      }
-    ],
-    "labCollaborators": [
-      {
-        "id": 1,
-        "labId": 3,
-        "collaboratorsId": 5
-      }
-    ]
-}      
-      
-      
+  "collaborators": [
+    {
+      "id": 1,
+      "name": "Ava Jones",
+      "email": "avajones@belmont.edu",
+      "about": "My art background is in photography and studio art. I mostly work with acrylic paint right now, but have been experimenting with painting found objects and assembling them together as a kind of sculpture.",
+      "image": "https://img1.etsystatic.com/032/0/9411408/il_170x135.591976175_hrdx.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bruno Garcia",
+      "email": "brunoG@gmail.com",
+      "about": "I am a self-taught painter. I enjoy bright colors and mostly abstract work. I am not a working artist, but paint more to relax and meet new people.",
+      "image": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "name": "Lily Potter",
+      "email": "lilyrose@vanderbilt.edu",
+      "about": "Hi! I'm Lily, and I am just starting my art degree. I have always loved to draw, but hope to expand my knowledge into watercolor and other painting mediums.",
+      "image": "https://images.pexels.com/photos/7147661/pexels-photo-7147661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 4,
+      "name": "Tamika Roberts",
+      "email": "tamikaR@gmail.com",
+      "about": "Hello, my name is Tamika, and I am a children's book illustrator. I love to spend time with other artists, and I am looking for a collaborator to help me illustrate my next book project.",
+      "image": "https://images.pexels.com/photos/3817580/pexels-photo-3817580.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 5,
+      "name": "Jackson Townsend",
+      "email": "jackjack@gmail.com",
+      "about": "My main work is comic book art. Mostly graphic novels, but I also do some editorial. My favorite thing to work with is paper collage and ink.",
+      "image": "https://images.pexels.com/photos/1043331/pexels-photo-1043331.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "demo",
+      "email": "demo",
+      "about": "demo",
+      "image": "https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "id": 6
+    }
+  ],
+  "facilitators": [
+    {
+      "id": 1,
+      "name": "Tom Schultz",
+      "specialty": "painting"
+    },
+    {
+      "id": 2,
+      "name": "Rose Rogers",
+      "specialty": "illustration"
+    },
+    {
+      "id": 3,
+      "name": "Seymour Levin",
+      "specialty": "fibers"
+    },
+    {
+      "id": 4,
+      "name": "Elsa Knowles",
+      "specialty": "sculpture"
+    },
+    {
+      "id": 5,
+      "name": "Tom French",
+      "specialty": "printmaking"
+    },
+    {
+      "id": 6,
+      "name": "Bianca Small",
+      "specialty": "digital art"
+    }
+  ],
+  "labs": [
+    {
+      "name": "Paint It, Black?",
+      "about": "An exercise in minimalism, this LAB will experiment with the use of only black paint, ink and charcoals.",
+      "address": "1002 Fatherland St.",
+      "date": "2.25.2022",
+      "time": "6:00PM",
+      "facilitatorId": 1,
+      "collaboratorId": 1,
+      "id": 6
+    },
+    {
+      "name": "Drink and Draw",
+      "about": "BYODrink of choice, and join us for a laid back drawing session.",
+      "address": "1002 Fatherland St.",
+      "date": "2.29.2022",
+      "time": "5:00PM",
+      "facilitatorId": 2,
+      "collaboratorId": 1,
+      "id": 7
+    },
+    {
+      "name": "While My MacBook Gently Weeps",
+      "about": "New to world of digital arts, and feeling weepy? Come together, right now, in this Beatles themed LAB, to HELP! each other learn.",
+      "address": "1002 Fatherland St.",
+      "date": "3.5.2022",
+      "time": "3:00PM",
+      "facilitatorId": 6,
+      "collaboratorId": 1,
+      "id": 8
+    }
+  ],
+  "labCollaborators": []
+}
